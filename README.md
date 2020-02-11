@@ -1,4 +1,4 @@
-# currency_converter
+# Currency Converter
 
 A flutter application that convert currency form one to another.
 
